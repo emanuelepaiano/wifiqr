@@ -1,0 +1,2 @@
+# wifiqr
+Wifi QRCode Generator
